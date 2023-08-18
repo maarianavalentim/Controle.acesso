@@ -1,0 +1,22 @@
+body{
+    width: auto;
+    height: 600px;
+  background-color: rgb(156, 255, 255);
+}
+.container{
+    background-color:rgb(255, 255, 255);
+    display: flexbox;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 8px;
+    margin: 500px;
+    text-align: center;
+    padding: 70px;
+    margin-top: 200px;
+    font: 20px 'Franklin Gothic Medium';
+    }
+    button{
+        color: rgb(255, 255, 255);
+        background-color: dodgerblue;
+font: 'arial,sans-serif';
+    }
